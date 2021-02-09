@@ -1,3 +1,4 @@
+# Command Line
 - ls: lists all files in the current directory
 - cd <path to directory>: change into the specified directory
   * cd ..: go back up one folder
@@ -9,3 +10,9 @@
 - rm: rm file
  * rm -r: remove everything in the folder recursively (can remvoe empty folder)
 - cp: copy a file from source to destination
+
+# Git
+1. git status
+2. git add
+3. git commit
+4. git push
