@@ -17,3 +17,4 @@
 3. git commit
 4. git push
 5. git branch
+6. git checkout 'branch name'
